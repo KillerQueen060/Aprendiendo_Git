@@ -49,9 +49,6 @@ body
 }
 #post
 {
-<<<<<<< HEAD
-    background: rgba(11, 28, 75);
-=======
     padding: 1em;
 }
 #footer
@@ -60,5 +57,4 @@ body
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
 }
