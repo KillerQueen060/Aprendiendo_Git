@@ -40,3 +40,14 @@ body
 {
     font-size: 60px;
 }
+#post
+{
+    padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 0.5em;
+}
